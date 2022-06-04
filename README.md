@@ -1,7 +1,7 @@
 # 💫About Me :
 Hi, I am Jennifer Ezeobi, a backend software engineer.
 
-- I mainly work with Javascript(Nodejs)
+- I work with Javascript(Nodejs)
 
 - :zap: I am passionate about products that are solutions to everyday problems.
 
